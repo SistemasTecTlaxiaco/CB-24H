@@ -16,7 +16,7 @@ INTEGRANTES DEL EQUIPO
 
 | **Integrantes** | **Rol**
 |------------|-----|
-|**`Samuel José Antonio`** |[[Lider de Proyecto]] :man_artist: 🧥   
-|**`María Concepción García Castro`**  |[[Tester]] :mag_right: :mag:        
-|**`Ana Laura Aparicio Hernández`**		|[[Diseñadora]] :1234: :art:                        
-|**`Elvis Cruz Bautista`** |[[Programador y Analista]] :computer: :man_technologist: 
+|**`Samuel José Antonio`** |Lider de Proyecto :man_artist: 🧥   
+|**`María Concepción García Castro`**  |Tester :mag_right: :mag:        
+|**`Ana Laura Aparicio Hernández`**		|[Diseñadora :1234: :art:                        
+|**`Elvis Cruz Bautista`** | Programador y Analista :computer: :man_technologist: 
