@@ -4,6 +4,7 @@ Saludos
 
 ## BIENVENIDOS 
 ***
+![Logo](https://github.com/SistemasTecTlaxiaco/Software_Proyecto/blob/master/Imagenes/logo.jpeg)
 ### **CB-24H** 
 
 Bienvenido a la **Wiki** de **CB24H**  en esta sección se llevará un control sobre la documentación general del proyecto escolar a realizar, para que así otras personas puedan ver y conocer como se realiza.
