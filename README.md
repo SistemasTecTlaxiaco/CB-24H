@@ -1,5 +1,5 @@
 # Proyecto_Software
-En este repositorio es donde se almacenara la informacion necesria para que se ocuparan durante el transcuro del desarrollo del proyecto
+En este repositorio es donde se almacenara la informacion necesaria la cual se ocuparan durante el transcuro del desarrollo del proyecto
 Saludos  
 
 ## BIENVENIDOS 
