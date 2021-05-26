@@ -1,0 +1,20 @@
+{
+    "sites":[
+        {
+            "site" : "main", 
+            "access" : "public", 
+            "role" : ""
+        },
+        {
+            "site" : "signup", 
+            "access" : "public", 
+            "role" : ""
+        },
+        {
+            "site" : "home", 
+            "access" : "private", 
+            "role" : "user"
+        }         
+    ]
+
+}
