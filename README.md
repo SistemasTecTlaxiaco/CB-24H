@@ -1,5 +1,5 @@
 # Proyecto_Software
-En este repositorio se almacenará toda la información necesaria que se ocupará durante el transcurso del desarrollo del proyecto CB-24H.
+En este repositorio se almacenará toda la información necesaria que se ocupará durante el transcurso del desarrollo del proyecto CB-24H, asi tambien se iran archivando los avances.
 
 Saludos.
 
