@@ -9,9 +9,9 @@ Saludos.
 ![](https://github.com/SistemasTecTlaxiaco/Software_Proyecto/blob/master/Imagenes/logo.png)
 ### **CB-24H** 
 
-Bienvenido a la **Wiki** de **CB24H**, en esta sección es donde se llevará un control sobre toda la documentación general del proyecto escolar a realizar, para que de esta forma otras personas ajenas a este puedan ver,conocer y entender como es la elaboracion del mismo.
+Bienvenido a la **Wiki** de **CB-24H**, en esta sección es donde se llevará un control sobre toda la documentación general del proyecto escolar a realizar, para que de esta forma otras personas ajenas a este puedan ver,conocer y entender como es la elaboración del mismo.
 
-Si desea conocer o ver información acerca del proyecto y el desarrollo de la Aplicación, te sugerimos dirigirte a la barra derecha **Pages** donde encontrarás una serie de pasos que se han realizado para el proyecto proyecto como lo son: Documentación y codificación de la aplicación **CB24H**.
+Si desea conocer o ver información acerca de este proyecto y el desarrollo de la Aplicación, le sugerimos dirigirse a la barra derecha **Pages** en donde podrá encontrar una serie de pasos que se han realizado para la elaboración del proyecto, tales como: Documentación y codificación de la aplicación **CB-24H**.
 ***
 **LINKS**
 ***
