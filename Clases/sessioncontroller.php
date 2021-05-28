@@ -173,7 +173,7 @@ class SessionController extends Controller{
         error_log("sessionController::getCurrentPage(): actualLink =>" . $actual_link . ", url => " . $url[2]);
         return $url[2];
     }
-
+//Autorisa acceso de sesion
     function authorizeAccess($role){
         error_log("sessionController::authorizeAccess(): role: $role");
         switch($role){
@@ -186,7 +186,7 @@ class SessionController extends Controller{
             default:
         }
     }
-
+//cerar sesion
     function logout(){
         $this->session->closeSession();
     }
