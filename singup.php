@@ -9,8 +9,8 @@
             if(isset($_SESSION['user'])){
                 //echo "hay sesion";
                 $user->setUser($userSession->getCurrentUser());
-                include_once 'home/index.php';
-                //<?php echo constant('URL'); ?home>;
+                //include_once 'home/index.php';
+                echo constant('URL'); ?home;
 
             }else if(isset($_POST['username']) && isset($_POST['seguridad'])){
                 
@@ -22,16 +22,16 @@
                     //echo "Existe el usuario";
                     $userSession->setCurrentUser($userForm);
                     $user->setUser($userForm);
-                    //echo constant('URL');home;
-                    require_once 'views/home/index.php';
+                    echo constant('URL');home;
+                    //require_once 'views/home/index.php';
                     
                     
                     
                 }else{
                     //echo "No existe el usuario";
                     $errorLogin = "Nombre de usuario y/o password incorrecto";
-                    require_once 'views/login/index.php';
-                    //echo constant('URL');login;
+                    //require_once 'views/login/index.php';
+                    echo constant('URL');login;
 
                     
                     function render()
@@ -41,8 +41,8 @@
                 }
             }else{
                 //echo "login";
-                include_once 'login/index.php';
-                //<?php echo constant('URL'); ?login>;
+                //include_once 'login/index.php';
+                echo constant('URL'); ?login;
             
         }
     
