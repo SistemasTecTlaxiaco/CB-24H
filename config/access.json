@@ -8,7 +8,12 @@
         {
             "site" : "signup", 
             "access" : "public", 
-            "role" : ""
+            "role" : "user"
+        },
+        {
+            "site" : "home", 
+            "access" : "privade", 
+            "role" : "user"
         },
         {
             "site" : "home", 
