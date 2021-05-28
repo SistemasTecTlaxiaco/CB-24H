@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+c<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +33,7 @@
         <p>Contraseña</p>
         <input type="password" name="seguridad" autocomplete="off" placeholder="Ingrese su Contraseña" >
         <input type="submit" name="" value="Login" >
-        <a href="<?php echo constant('URL');?>recuperar"> ¿Has olvidado la contraseña? </a>
+        <a href="<?php echo constant('URL');?>recuperar contraseña"> Necesito ayuda ¿He olvidado la contraseña? </a>
         </form>
 </body>
 </head>
