@@ -20,11 +20,11 @@ div.container{
 }
 
 .registro {
-    padding: 1px;
+    padding: 2px;
     text-align:inherit;
     width: 90px;
 
-    height: 115px;
+    height: 110px;
     position: absolute;
     top: 0px;
     left: calc(70% - 50px);   
@@ -37,15 +37,15 @@ div.container{
 }
 
 .registro ul li a{
-    width: 90px;
+    width: 100px;
     color: rgb(251, 255, 1);
     text-decoration: none;
     padding: 10px;
 }
 .loginbox
 {
-    width: 320px;
-    height: 550px;
+    width: 350px;
+    height: 650px;
     background: rgba(0, 0, 0, 0.842);
     color: #fff;
     top: 50%;
@@ -53,7 +53,7 @@ div.container{
     position: absolute;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
-    padding: 120px 40px;
+    padding: 150px 40px;
 }
 .avatar
 {
@@ -76,7 +76,7 @@ h2{
     margin: 0;
     padding: 0 0 20px;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     color: #fb2525;
 }
 
@@ -90,7 +90,7 @@ h2{
 .loginbox input
 {
     width: 100%;
-    margin-bottom:  20px;
+    margin-bottom:  50px;
 }
 .loginbox input[type="text"],input[type="password"]
 {
@@ -98,7 +98,7 @@ h2{
     border-bottom: 1px solid #fff;
     background: transparent;
     outline: none;
-    height: 40px;
+    height: 60px;
     color: #fff;
     font-size: 16px;
     text-align: center;
@@ -139,7 +139,7 @@ h2{
 .loginbox bad {
 	text-align: center;
 	width: 100%;
-	padding: 12px;
+	padding: 15px;
 	background-color: #a22;
 	color: rgb(255, 0, 0)
 }
