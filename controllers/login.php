@@ -10,6 +10,7 @@
         
         function render()
         {
+            //Cargamos la vista desde nuestro controlador para la vista login
             $this->view->render('login/index');
         }
 
