@@ -2,8 +2,9 @@
     padding: 0;
     margin: 0;
 }
+/*Diseño de el cuerpo de la pagina*/
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Cursiva, Helvetica, sans-serif;
     background-color: #eee;
 }
 /*Se realiza el contenedor responsivo*/
@@ -13,10 +14,12 @@ body{
     margin: 0 auto;
     overflow: hidden;
 }
+/*Se diseña el mapa*/
 #mapa{
     width: 100%;
     max-width: 100%;
 }
+/*Se diseña el encabezado*/
 #header {
     background: rgb(0, 0, 0);
     padding: 5px;
@@ -35,7 +38,7 @@ body{
     padding: 10px;
 }
 
-
+/*Se diseañ como mostrara el mensaje de error*/
 .error{
     color: #ac2323;
 }
