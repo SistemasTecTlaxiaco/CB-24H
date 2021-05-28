@@ -14,7 +14,7 @@
     </div>
 
     <div class="loginbox">
-        <div class="registro">
+        <div class="registrate">
             <form action="<?php echo constant('URL'); ?>home" method="POST"">
             <ul> 
                 <li><a href="<?php echo constant('URL');?>registrar">REGISTRARSE</a></li>
@@ -29,11 +29,11 @@
             }
         ?>
         <p>Usuario</p>
-        <input type="text" name="username" placeholder="Ingrese su Usuario" >
+        <input type="text" name="username" placeholder="Coloque su Usuario" >
         <p>Contraseña</p>
-        <input type="password" name="password" placeholder="Ingrese su Contraseña" >
+        <input type="password" name="password" placeholder="Coloque su Contraseña" >
         <input type="submit" name="" value="Login" >
-        <a href="#"> ¿Has olvidado la contraseña? </a>
+        <a href="#"> Ayuda ¿He olvidado mi contraseña? </a>
         </form>
 </body>
 </head>
