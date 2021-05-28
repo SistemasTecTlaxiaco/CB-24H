@@ -18,8 +18,8 @@ div.container {
 }
 .loginbox
 {
-    width: 380px;
-    height: 910px;
+    width: 400px;
+    height: 950px;
     background: rgba(0, 0, 0, 0.767);
     color: rgba(255, 255, 255, 0.781);
     top: 65%;
@@ -27,7 +27,7 @@ div.container {
     position: absolute;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
-    padding: 120px 45px;
+    padding: 150px 50px;
 }
 
 h1{
@@ -35,7 +35,7 @@ h1{
     margin: 0;
     padding: 0 0 30px;
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     height: 0%;
     position:absolute;
     top: 30px;
@@ -48,7 +48,7 @@ h1{
     text-align:center;
     font-size: 20px;
     height: 0%;
-    position:absolute;
+    position: relative;
     top: 75px;
     left: calc(40% - 75px); 
     color: rgb(253, 9, 9);
@@ -65,7 +65,7 @@ h2{
 {
     margin: o;
     padding: 0;
-    font-weight: bold;
+    font-weight: lighter;
 }
 .loginbox input
 {
@@ -77,7 +77,7 @@ h2{
     border: none;
     border-bottom: 1px solid #fff;
     background: transparent;
-    outline: none;
+    outline: inherit;
     height: 40px;
     color: #fff;
     font-size: 16px;
@@ -109,7 +109,7 @@ h2{
 
 .loginbox a:hover
 {
-    color: #ffc107;
+    color: #14B76E;
 }
 
 .loginbox bad {
