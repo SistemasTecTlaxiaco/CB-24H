@@ -31,7 +31,7 @@ c<!DOCTYPE html>
         <p>Usuario</p>
         <input type="text" name="username" placeholder="Ingrese su Usuario" >
         <p>Contraseña</p>
-        <input type="password" name="seguridad" autocomplete="off" placeholder="Ingrese su Contraseña" >
+        <input type="password" name="password" autocomplete="off" placeholder="Ingrese su Contraseña" >
         <input type="submit" name="" value="Login" >
         <a href="<?php echo constant('URL');?>recuperar contraseña"> Necesito ayuda ¿He olvidado la contraseña? </a>
         </form>
