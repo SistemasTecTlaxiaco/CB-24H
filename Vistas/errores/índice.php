@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1 class="center error"><?php echo $this->mensaje; ?></h1>
+<h1 class="Center error"><?php Echo $this->Mensaje; ?></h1>
 </body>
 </html>
