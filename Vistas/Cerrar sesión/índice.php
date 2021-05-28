@@ -28,12 +28,13 @@
                 echo $errorLogin;
             }
         ?>
+//Datos para iniciar sesion                                                        
         <p>Usuario</p>
         <input type="text" name="username" placeholder="Coloque su Usuario" >
         <p>Contraseña</p>
         <input type="password" name="password" placeholder="Coloque su Contraseña" >
         <input type="submit" name="" value="Login" >
-        <a href="#"> Ayuda ¿He olvidado mi contraseña? </a>
+        <a href="#"> Ayuda ¿Olvidaste tu contraseña? </a>
         </form>
 </body>
 </head>
