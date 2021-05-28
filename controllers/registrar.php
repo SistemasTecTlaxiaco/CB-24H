@@ -11,6 +11,7 @@
 
         function render()
         {
+            //cargamos la vista indes para el registro 
             $this->view->render('registrar/index');
         }
         
@@ -29,9 +30,9 @@
             $mensaje ="";
             
             if($this->model->insert(['nombre' => $nombre, 'username' => $username, 'seguridad' => md5($seguridad), 'negocio'=> $negocio, 'descripcion'=> $descripcion, 'ubicacion'=> $ubicacion])){
-                $mensaje = "NUEVO USUARIO CREADO";
+                $mensaje = "USUARIO CREADO";
             }else{
-                $mensaje = "EL USUARIO YA EXISTE";
+                $mensaje = "YA EXISTE USUARIO ";
             }
 
             $this->view->mensaje = $mensaje;
