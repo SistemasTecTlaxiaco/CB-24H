@@ -22,7 +22,7 @@
         <div class="mesage"><?php echo $this->mensaje; ?></div>
 
         <p>Nombre</p>
-        <input type="text" name="nombre" placeholder="Ingrese su Usuario" required>
+        <input type="text" name="nombre" placeholder="Ingrese su Nombre" required>
 
         <p>Usuario</p>
         <input type="text" name="username" placeholder="Ingrese su Usuario" required>
@@ -34,7 +34,7 @@
         <input type="text" name="negocio" placeholder="Nombre del Negocio" required>
 
         <p>Descipción del Negocio</p>
-        <input type="text" name="descripcion" placeholder="Ingrese informacion sobre su Negocio" required>
+        <input type="text" name="descripcion" placeholder="Ingrese informacion sobre el Negocio" required>
 
         <p>Ubcación</p>
         <input type="text" name="ubicacion" placeholder="Ingrese Ubicacion" required>
