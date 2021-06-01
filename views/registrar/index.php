@@ -34,10 +34,10 @@
         <input type="text" name="negocio" placeholder="Nombre del Negocio" required>
 
         <p>Descipción del Negocio</p>
-        <input type="text" name="descripcion" placeholder="Ingrese informacion sobre el Negocio" required>
+        <input type="text" name="descripcion" placeholder="Ingrese información sobre el Negocio" required>
 
         <p>Ubcación</p>
-        <input type="text" name="ubicacion" placeholder="Ingrese Ubicacion" required>
+        <input type="text" name="ubicacion" placeholder="Ingrese la ubicación del Establecimiento" required>
 
         <input type="submit" name="" value="Registrar">
         <a href="#">Al registrarse estara aceptando los terminos y condiciones de aplicación</a>
