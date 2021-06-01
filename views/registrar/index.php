@@ -40,7 +40,7 @@
         <input type="text" name="ubicacion" placeholder="Ingrese la ubicación del Establecimiento" required>
 
         <input type="submit" name="" value="Registrar">
-        <a href="#">Al registrarse estara aceptando los terminos y condiciones de aplicación</a>
+        <a href="#">Al registrarse estará aceptando los terminos y condiciones de la aplicación</a>
         
         </form>
    
