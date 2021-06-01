@@ -19,7 +19,7 @@ body{
     width: 100%;
     max-width: 100%;
 }
-/*Se diseña el encabezado*/
+/*Se hace el diseño del encabezado*/
 #header {
     background: rgb(0, 0, 0);
     padding: 5px;
@@ -38,7 +38,7 @@ body{
     padding: 10px;
 }
 
-/*Se diseañ como mostrara el mensaje de error*/
+/*Se diseña como mostrara el mensaje de error*/
 .error{
     color: #ac2323;
 }
