@@ -25,7 +25,7 @@ body{
     padding: 5px;
     text-align: right;
 }
-
+/*Aplicacion de estilos a las listas*/
 #header ul li {
     list-style: none;
     display: inline;
