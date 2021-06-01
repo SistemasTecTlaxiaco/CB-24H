@@ -7,7 +7,7 @@ body{
     font-family: Cursiva, Helvetica, sans-serif;
     background-color: #eee;
 }
-/*Se realiza el contenedor responsivo*/
+/*Se declaran las medidas Del contenedor responsivo*/
 .contenedor{
     width: 100%;
     max-width: 100%;
