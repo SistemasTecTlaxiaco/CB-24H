@@ -25,7 +25,7 @@
         <input type="text" name="nombre" placeholder="Ingrese su Nombre" required>
 
         <p>Usuario</p>
-        <input type="text" name="username" placeholder="Ingrese su Usuario" required>
+        <input type="text" name="username" placeholder="Ingrese su Usuario con el cual iniciará sesión" required>
 
         <p>Contraseña</p>
         <input type="password" name="seguridad" placeholder="Ingrese una contraseña" required>
