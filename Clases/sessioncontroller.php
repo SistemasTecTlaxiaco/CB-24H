@@ -115,7 +115,7 @@ class SessionController extends Controller{
 
         return false;
     }
-
+// Toma los datos del usuario
     function getUserSessionData(){
         $id = $this->session->getCurrentUser();
         $this->user = new UserModel();
@@ -173,7 +173,7 @@ class SessionController extends Controller{
         error_log("sessionController::getCurrentPage(): actualLink =>" . $actual_link . ", url => " . $url[2]);
         return $url[2];
     }
-//Autorisa acceso de sesion
+//Autoriza acceso de sesion
     function authorizeAccess($role){
         error_log("sessionController::authorizeAccess(): role: $role");
         switch($role){
@@ -186,7 +186,7 @@ class SessionController extends Controller{
             default:
         }
     }
-//cerar sesion
+//cerrar sesion
     function logout(){
         $this->session->closeSession();
     }
