@@ -21,26 +21,14 @@
         <h1 class="animate__animated animate__backInLeft">CREAR USUARIO</h1>
         <div class="mesage"><?php echo $this->mensaje; ?></div>
 
-        <p>Nombre</p>
-        <input type="text" name="nombre" placeholder="Ingrese su Usuario" required>
-
-        <p>Usuario</p>
+        
         <input type="text" name="username" placeholder="Ingrese su Usuario" required>
 
         <p>Contraseña</p>
-        <input type="password" name="seguridad" placeholder="Ingrese una contraseña" required>
+        <input type="password" name="password" placeholder="Ingrese una contraseña" required>
         
-        <p>Nombre del Local</p>
-        <input type="text" name="negocio" placeholder="Nombre del Negocio" required>
-
-        <p>Descipción del Negocio</p>
-        <input type="text" name="descripcion" placeholder="Ingrese informacion sobre su Negocio" required>
-
-        <p>Ubcación</p>
-        <input type="text" name="ubicacion" placeholder="Ingrese Ubicacion" required>
-
         <input type="submit" name="" value="Registrar">
-        <a href="#">Al registrarse estara aceptando los terminos y condiciones de aplicación</a>
+        <a href="#">Registrarse</a>
         
         </form>
    
