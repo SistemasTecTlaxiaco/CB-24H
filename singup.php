@@ -9,7 +9,7 @@
             if(isset($_SESSION['user'])){
                 //echo "hay sesion";
                 $user->setUser($userSession->getCurrentUser());
-                include_once 'home/index.php';
+                //include_once 'home/index.php';
                 //<?php echo constant('URL'); ?home>;
 
             }else if(isset($_POST['username']) && isset($_POST['seguridad'])){
@@ -23,7 +23,7 @@
                     $userSession->setCurrentUser($userForm);
                     $user->setUser($userForm);
                     //echo constant('URL');home;
-                    require_once 'views/home/index.php';
+                    //require_once 'views/home/index.php';
                     
                     
                     
@@ -32,7 +32,7 @@
                     $errorLogin = "Nombre de usuario y/o password incorrecto";
                     //require_once 'views/login/index.php';
                     //echo constant('URL');login;
-					require 'views/' . $login . '.php';
+					//require 'views/' . $login . '.php';
 
                     
                     function render()
@@ -42,7 +42,7 @@
                 }
             }else{
                 //echo "login";
-                include_once 'login/index.php';
+                //include_once 'login/index.php';
                 //<?php echo constant('URL'); ?login>;
             
         }
