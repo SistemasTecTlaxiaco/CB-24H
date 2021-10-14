@@ -40,7 +40,7 @@ c<!DOCTYPE html>
 
     <div class="loginbox">
         <h1>Iniciar sesión</h1>
-        <img src="public/imagenes/logoitt.png" class="avatar">
+        <img src="public/imagenes/cb-24h.png" class="avatar">
         <form action="<?php echo constant('URL'); ?>login/authenticate" method="POST">
 
         <div><?php (isset($this->errorMessage))?  $this->errorMessage : '' ?></div>
