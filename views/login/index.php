@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <title>LOGIN</title>
     <link rel="stylesheet"  type="text/css" href="<?php echo constant('URL');?>public/css/login.css">
+    <link rel="stylesheet"  type="text/css" href="<?php echo constant('URL');?>public/css/avatar.css">
     
 <body>
     
@@ -31,7 +32,7 @@
         <p>Usuario</p>
         <input type="text" name="username" placeholder="Ingrese su Usuario" >
         <p>Contraseña</p>
-        <input type="password" name="seguridad" autocomplete="off" placeholder="Ingrese su Contraseña" >
+        <input type="password" name="password" autocomplete="off" placeholder="Ingrese su Contraseña" >
         <input type="submit" name="" value="Login" >
         <a href="#"> ¿Has olvidado la contraseña? </a>
         </form>
