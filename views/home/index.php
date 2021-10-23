@@ -10,7 +10,9 @@
     <title>CAFE-BAR TLAXIACO</title>
 </head>
 <body>
-
+<h1>
+    <label for="">Bienvenidos</label>
+</h1>
     <div class="contenedor">
     
     <div id="header">
