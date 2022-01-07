@@ -1,5 +1,5 @@
-#Aplicación de Cafe Bar 
-#Proyecto_Software
+## Aplicación de Cafe Bar 
+# Proyecto_Software
 
 Este es el proyecto para establecimientos y crear una aplicación web completa con PHP. Algunas de las funcionalidades que tiene esta aplicación web son:
 
