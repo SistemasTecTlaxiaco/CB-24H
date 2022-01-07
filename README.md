@@ -1,7 +1,14 @@
-# Proyecto_Software
-En este repositorio se almacenará toda la información necesaria que será de mucha utilidad para el correcto desarrollo de este proyecto nombrado CB-24H.
+#Aplicación de Cafe Bar 
+#Proyecto_Software
 
-Saludos.
+Este es el proyecto para establecimientos y crear una aplicación web completa con PHP. Algunas de las funcionalidades que tiene esta aplicación web son:
+
+* Patrón de diseño Model-View-Controller
+* Consultas con MySQL
+* Autenticación y registro de usuarios
+* Autorización por roles
+* Integración de gráficas
+* Uso de sesiones
 
 ## BIENVENIDOS 
 ***
@@ -12,6 +19,8 @@ Saludos.
 Bienvenido a la **Wiki** de **CB-24H**, en esta sección es donde se llevará un control sobre toda la documentación general del proyecto escolar a realizar, para que de esta forma otras personas ajenas a este puedan ver,conocer y entender como es la elaboración del mismo.
 
 Si desea conocer o ver información acerca de este proyecto y el desarrollo de la Aplicación, le sugerimos dirigirse a la barra derecha nombrada **Pages** que es en donde podrá encontrar la serie de pasos que se han realizado para la elaboración del proyecto, tales como son: Documentación y codificación de la aplicación **CB-24H**.
+
+
 ***
 **LINKS**
 ***
