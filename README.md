@@ -22,7 +22,8 @@ Si desea conocer o ver información acerca de este proyecto y el desarrollo de l
 
 
 ***
-**LINKS**
+**LINK DE LA APP**
+https://coffe-bar.herokuapp.com/
 ***
 INTEGRANTES DEL EQUIPO 
 
